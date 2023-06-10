@@ -1,0 +1,96 @@
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-07T14:34:35.089Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-07T14:34:35.122Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-07T14:36:23.681Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-07T14:36:23.686Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-07T14:36:29.136Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-07T14:36:29.144Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-07T14:49:46.797Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-07T14:49:46.819Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-07T14:50:41.191Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-07T14:50:41.199Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-07T14:50:44.609Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-07T14:50:44.617Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-07T14:50:50.721Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-07T14:50:50.728Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-07T14:50:55.585Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-07T14:50:55.594Z'
+}
